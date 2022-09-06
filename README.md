@@ -9,3 +9,5 @@
 
 ##### My Solved.ac Profile
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lmtna99)](https://solved.ac/lmtna99/)
+
+![ChoEChoU's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChoEChoU&theme=dark&show_icons=true)
